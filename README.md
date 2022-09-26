@@ -9,27 +9,28 @@
   <!--<img src="https://komarev.com/ghpvc/?username=sidalay-s&style=flat-square&color=blue" alt=""/>-->
  </div>
 
-<div id="cards" align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sidalay-s&langs_count=6&exclude_repo=github-readme-stats&hide=cmake,c&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-
 ---
 C++ Developer
   - Game Development
   - Software Development
 
-Misc. Pursuits
-  - Game Design
-  - Art
-  - Graphic Design
-  - 3D Modeling
-  - Pixel Art
-  - Music Production
-
 ---
   ### Languages & Tools :
 <div>
-  <img src=:"https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cplusplus" alt="Cplusplus" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="Cplusplus" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JS" width="40" height="40"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" title="CMake" alt="CMake" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+</div>
+
+---
+
+<div id="cards">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidalay-s&langs_count=6&exclude_repo=github-readme-stats&hide=c&theme=dark&layout=compact&)](https://github.com/anuraghazra/github-readme-stats"/>
 </div>
 
 
