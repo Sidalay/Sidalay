@@ -18,6 +18,29 @@
   Programming has provided a path for my passionate desire and flame for creation! 
 
 ---
+  ### Projects :
+<div id="repos">
+  <a href="https://www.github.com/sidalay-s/cryptexadventure/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sidalay-s&repo=cryptexadventure&theme=dark&)](https://github.com/anuraghazra/github-readme-stats"/>
+  </a>
+  <p> </p>
+  <a href="https://www.github.com/sidalay-s/spacefighter/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sidalay-s&repo=spacefighter&theme=dark&)](https://github.com/anuraghazra/github-readme-stats"/>
+  </a>
+ </div>
+ <p> </p>
+  <a href="https://www.github.com/sidalay-s/supersnake/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sidalay-s&repo=supersnake&theme=dark&)](https://github.com/anuraghazra/github-readme-stats"/>
+  </a>
+ </div>
+ 
+ ---
+  ### Most Used Languages:
+<div id="cards">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidalay-s&langs_count=6&exclude_repo=github-readme-stats&hide_title=true&hide=c&theme=dark&layout=compact&)](https://github.com/anuraghazra/github-readme-stats"/>
+</div>
+
+---
   ### Languages & Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="Cplusplus" width="40" height="40"/>&nbsp;
@@ -30,28 +53,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
 
----
-  ### Most Used Languages:
-<div id="cards">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidalay-s&langs_count=6&exclude_repo=github-readme-stats&hide_title=true&hide=c&theme=dark&layout=compact&)](https://github.com/anuraghazra/github-readme-stats"/>
-</div>
-
----
-  ### Projects :
-<!-- <div id="repos">
-  <a href="https://www.github.com/sidalay-s/cryptexadventure/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sidalay-s&repo=cryptexadventure&theme=dark&)](https://github.com/anuraghazra/github-readme-stats"/>
-  </a>
-  <p> </p>
-  <a href="https://www.github.com/sidalay-s/spacefighter/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sidalay-s&repo=spacefighter&theme=dark&)](https://github.com/anuraghazra/github-readme-stats"/>
-  </a>
- </div> -->
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sidalay-s&theme=dark&repo=cryptexadventure)](https://github.com/anuraghazra/github-readme-stats)
- 
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sidalay-s&theme=dark&repo=spacefighter)](https://github.com/anuraghazra/github-readme-stats)
- 
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sidalay-s&theme=dark&repo=supersnake)](https://github.com/anuraghazra/github-readme-stats)
  
 <!--  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sidalay-s&theme=dark&repo=memorygame)](https://github.com/anuraghazra/github-readme-stats)
  
