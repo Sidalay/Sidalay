@@ -7,14 +7,15 @@
   <a href="https://www.linkedin.com/in/yuki-shingaki-57684a227/">
     <img src="https://img.shields.io/badge/LinkedIn-Sid%20Shingaki-blue?logo=linkedin&logoColor=white&style=plastic&logo=appveyor" alt="LinkedIn Badge"/>
   </a>
+  <p>C++ Developer</p>
   <!--<img src="https://komarev.com/ghpvc/?username=sidalay-s&style=flat-square&color=blue" alt=""/>-->
  </div>
 
 ---
   ### About Me :
-C++ Developer
-  - Game Development
-  - Software Development
+  California-based developer that has been studying C++ for the past 2 years. \
+  I love tinkering and have always been curious about how things work "under the hood"! \
+  Programming has provided a path for my passionate desire and flame for creation! 
 
 ---
   ### Languages & Tools :
@@ -37,27 +38,22 @@ C++ Developer
 
 ---
   ### Repositories :
-<div id="repos">
+<!-- <div id="repos">
+  <a href="https://www.github.com/sidalay-s/cryptexadventure/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sidalay-s&repo=cryptexadventure&theme=dark&)](https://github.com/anuraghazra/github-readme-stats"/>
+  </a>
+  <p> </p>
   <a href="https://www.github.com/sidalay-s/spacefighter/">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sidalay-s&repo=spacefighter&theme=dark&)](https://github.com/anuraghazra/github-readme-stats"/>
   </a>
- </div>
+ </div> -->
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sidalay-s&theme=dark&repo=cryptexadventure)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sidalay-s&theme=dark&repo=spacefighter)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sidalay-s&theme=dark&repo=supersnake)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sidalay-s&theme=dark&repo=memorygame)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sidalay-s&theme=dark&repo=dice-roll)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- 
-  [![Sidalay's Stats](https://github-readme-stats.vercel.app/api?username=sidalay-s&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
- -->
-
-<!--
-**sidalay-s/sidalay-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
