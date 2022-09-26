@@ -1,6 +1,7 @@
 <div id="header" align="center">
-  <img src="https://user-images.githubusercontent.com/72498122/192174030-32444233-ac1f-4899-b27e-de741aa02c20.png" height="128" width="128"/>
+  <img src="https://user-images.githubusercontent.com/72498122/192174030-32444233-ac1f-4899-b27e-de741aa02c20.png" width="128" height="128"/>
 </div>
+
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/yuki-shingaki-57684a227/">
@@ -10,6 +11,7 @@
  </div>
 
 ---
+  ### About Me :
 C++ Developer
   - Game Development
   - Software Development
@@ -28,11 +30,18 @@ C++ Developer
 </div>
 
 ---
-
+  ### Most Used Languages:
 <div id="cards">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidalay-s&langs_count=6&exclude_repo=github-readme-stats&hide=c&theme=dark&layout=compact&)](https://github.com/anuraghazra/github-readme-stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidalay-s&langs_count=6&exclude_repo=github-readme-stats&hide_title=true&hide=c&theme=dark&layout=compact&)](https://github.com/anuraghazra/github-readme-stats"/>
 </div>
 
+---
+  ### Repositories :
+<div id="repos">
+  <a href="https://www.github.com/sidalay-s/spacefighter/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sidalay-s&repo=spacefighter&theme=dark&)](https://github.com/anuraghazra/github-readme-stats"/>
+  </a>
+ </div>
 
 <!-- 
   [![Sidalay's Stats](https://github-readme-stats.vercel.app/api?username=sidalay-s&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
