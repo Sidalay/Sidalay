@@ -30,7 +30,7 @@
  </div>
  <p> </p>
   <a href="https://www.github.com/sidalay-s/supersnake/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sidalay-s&repo=supersnaks&theme=dark&)](https://github.com/anuraghazra/github-readme-stats"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sidalay-s&repo=supersnake&theme=dark&)](https://github.com/anuraghazra/github-readme-stats"/>
   </a>
  </div>
  
