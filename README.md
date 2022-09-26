@@ -37,7 +37,7 @@
 </div>
 
 ---
-  ### Repositories :
+  ### Projects :
 <!-- <div id="repos">
   <a href="https://www.github.com/sidalay-s/cryptexadventure/">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sidalay-s&repo=cryptexadventure&theme=dark&)](https://github.com/anuraghazra/github-readme-stats"/>
@@ -53,7 +53,7 @@
  
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sidalay-s&theme=dark&repo=supersnake)](https://github.com/anuraghazra/github-readme-stats)
  
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sidalay-s&theme=dark&repo=memorygame)](https://github.com/anuraghazra/github-readme-stats)
+<!--  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sidalay-s&theme=dark&repo=memorygame)](https://github.com/anuraghazra/github-readme-stats)
  
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sidalay-s&theme=dark&repo=dice-roll)](https://github.com/anuraghazra/github-readme-stats)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sidalay-s&theme=dark&repo=dice-roll)](https://github.com/anuraghazra/github-readme-stats) -->
 
