@@ -14,7 +14,7 @@
 ---
   ### About Me :
   California-based developer that has been studying C++ for the past 2 years. \
-  I love tinkering and have always been curious about how things work "under the hood"! \
+  I love tinkering and have always been curious about how things work "under the hood". \
   Programming has provided a path for my passionate desire and flame for creation! 
 
 ---
