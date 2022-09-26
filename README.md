@@ -29,8 +29,8 @@
   </a>
  </div>
  <p> </p>
-  <a href="https://www.github.com/sidalay-s/theloglogger/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sidalay-s&repo=theloglogger&theme=dark&)](https://github.com/anuraghazra/github-readme-stats"/>
+  <a href="https://www.github.com/sidalay-s/supersnake/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sidalay-s&repo=supersnake&theme=dark&)](https://github.com/anuraghazra/github-readme-stats"/>
   </a>
  </div>
  
