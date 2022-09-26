@@ -35,7 +35,7 @@
  </div>
  
  ---
-  ### Most Used Languages:
+  ### Most Used Languages :
 <div id="cards">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidalay-s&langs_count=6&exclude_repo=github-readme-stats&hide_title=true&hide=c&theme=dark&layout=compact&)](https://github.com/anuraghazra/github-readme-stats"/>
 </div>
