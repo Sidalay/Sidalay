@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Sid%20Shingaki-blue?logo=linkedin&logoColor=white&style=plastic&logo=appveyor" alt="LinkedIn Badge"/>
   </a>
   <p>C++ Developer</p>
-  <!--<img src="https://komarev.com/ghpvc/?username=sidalay-s&style=flat-square&color=blue" alt=""/>-->
+  <!--<img src="https://komarev.com/ghpvc/?username=sidalay&style=flat-square&color=blue" alt=""/>-->
  </div>
 
 ---
@@ -20,24 +20,24 @@
 ---
   ### Projects :
 <div id="repos">
-  <a href="https://www.github.com/sidalay-s/cryptexadventure/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sidalay-s&repo=cryptexadventure&theme=dark&)](https://github.com/anuraghazra/github-readme-stats"/>
+  <a href="https://www.github.com/sidalay/foxyadventure/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sidalay&repo=foxyadventure&theme=dark&)](https://github.com/anuraghazra/github-readme-stats"/>
   </a>
   <p> </p>
-  <a href="https://www.github.com/sidalay-s/spacefighter/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sidalay-s&repo=spacefighter&theme=dark&)](https://github.com/anuraghazra/github-readme-stats"/>
+  <a href="https://www.github.com/sidalay/spacefighter/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sidalay&repo=spacefighter&theme=dark&)](https://github.com/anuraghazra/github-readme-stats"/>
   </a>
  </div>
  <p> </p>
-  <a href="https://www.github.com/sidalay-s/supersnake/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sidalay-s&repo=supersnake&theme=dark&)](https://github.com/anuraghazra/github-readme-stats"/>
+  <a href="https://www.github.com/sidalay/supersnake/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sidalay&repo=supersnake&theme=dark&)](https://github.com/anuraghazra/github-readme-stats"/>
   </a>
  </div>
  
  ---
   ### Most Used Languages :
 <div id="cards">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidalay-s&langs_count=6&exclude_repo=github-readme-stats&hide_title=true&hide=c&theme=dark&layout=compact&)](https://github.com/anuraghazra/github-readme-stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidalay&langs_count=6&exclude_repo=github-readme-stats&hide_title=true&hide=c&theme=dark&layout=compact&)](https://github.com/anuraghazra/github-readme-stats"/>
 </div>
 
 ---
@@ -54,7 +54,7 @@
 </div>
 
  
-<!--  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sidalay-s&theme=dark&repo=memorygame)](https://github.com/anuraghazra/github-readme-stats)
+<!--  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sidalay&theme=dark&repo=memorygame)](https://github.com/anuraghazra/github-readme-stats)
  
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sidalay-s&theme=dark&repo=dice-roll)](https://github.com/anuraghazra/github-readme-stats) -->
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sidalay&theme=dark&repo=dice-roll)](https://github.com/anuraghazra/github-readme-stats) -->
 
