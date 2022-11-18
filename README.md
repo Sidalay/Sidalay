@@ -45,7 +45,7 @@
   ### Most Used Languages :
 <div id="cards">
   <a href="https://github.com/sidalay?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidalay&langs_count=6&exclude_repo=github-readme-stats&hide_title=true&hide=c&theme=dark&layout=compact&)](https://github.com/anuraghazra/github-readme-stats"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidalay&langs_count=6&exclude_repo=github-readme-stats&hide_title=true&hide=c,c%23&theme=dark&layout=compact&)](https://github.com/anuraghazra/github-readme-stats"/>
   </a>
 </div>
 
