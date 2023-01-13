@@ -23,21 +23,21 @@
   ### Projects :
 <div id="repos">
   <a href="https://www.github.com/sidalay/foxyadventure/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sidalay&repo=foxyadventure&theme=dark&)](https://github.com/anuraghazra/github-readme-stats"/>
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sidalay&repo=foxyadventure&theme=dark&)](https://github.com/anuraghazra/github-readme-stats"/>
   </a>
   <p> </p>
   <a href="https://www.github.com/sidalay/spacefighter/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sidalay&repo=spacefighter&theme=dark&)](https://github.com/anuraghazra/github-readme-stats"/>
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sidalay&repo=spacefighter&theme=dark&)](https://github.com/anuraghazra/github-readme-stats"/>
   </a>
  </div>
  <p> </p>
   <a href="https://www.github.com/sidalay/supersnake/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sidalay&repo=supersnake&theme=dark&)](https://github.com/anuraghazra/github-readme-stats"/>
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sidalay&repo=supersnake&theme=dark&)](https://github.com/anuraghazra/github-readme-stats"/>
   </a>
  </div>
  <p> </p>
   <a href="https://www.github.com/sidalay/sidlib/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sidalay&repo=Sidlib&theme=dark&)](https://github.com/anuraghazra/github-readme-stats"/>
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sidalay&repo=Sidlib&theme=dark&)](https://github.com/anuraghazra/github-readme-stats"/>
   </a>
  </div>
  
@@ -45,7 +45,7 @@
   ### Most Used Languages :
 <div id="cards">
   <a href="https://github.com/sidalay?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidalay&langs_count=6&exclude_repo=github-readme-stats&hide_title=true&hide=c,c%23&theme=dark&layout=compact&)](https://github.com/anuraghazra/github-readme-stats"/>
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sidalay&langs_count=6&exclude_repo=github-readme-stats&hide_title=true&hide=c,c%23&theme=dark&layout=compact&)](https://github.com/anuraghazra/github-readme-stats"/>
   </a>
 </div>
 
