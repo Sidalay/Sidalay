@@ -23,7 +23,7 @@
   I love tinkering and have always been curious about how things work "under the hood". \
   Programming has provided a path for my passionate desire and flame for creation! 
 
-  Check out my website to see my web development work and blog: https://sidalay.dev/
+  ### My web development work and personal blog: https://sidalay.dev/
 
 ---
   ### Projects :
