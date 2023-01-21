@@ -4,7 +4,11 @@
   </a>
 </div>
 
-
+<div id="badges" align="center">
+  <a href="https://sidalay.dev/">
+    <img src="https://img.shields.io/badge/Website-Sidalay.dev-red?logo=linkedin&logoColor=white&style=plastic&logo=appveyor" alt="LinkedIn Badge"/>
+  </a>
+</div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/yuki-shingaki-57684a227/">
     <img src="https://img.shields.io/badge/LinkedIn-Sid%20Shingaki-blue?logo=linkedin&logoColor=white&style=plastic&logo=appveyor" alt="LinkedIn Badge"/>
