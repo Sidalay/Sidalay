@@ -32,13 +32,13 @@
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sidalay&repo=foxyadventure&theme=dark&)](https://github.com/anuraghazra/github-readme-stats"/>
   </a>
   <p> </p>
-  <a href="https://www.github.com/sidalay/spacefighter/">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sidalay&repo=spacefighter&theme=dark&)](https://github.com/anuraghazra/github-readme-stats"/>
+  <a href="https://www.github.com/sidalay/tetris/">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sidalay&repo=tetris&theme=dark&)](https://github.com/anuraghazra/github-readme-stats"/>
   </a>
  </div>
  <p> </p>
-  <a href="https://www.github.com/sidalay/supersnake/">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sidalay&repo=supersnake&theme=dark&)](https://github.com/anuraghazra/github-readme-stats"/>
+  <a href="https://www.github.com/sidalay/spacefighter/">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sidalay&repo=spacefighter&theme=dark&)](https://github.com/anuraghazra/github-readme-stats"/>
   </a>
  </div>
  <p> </p>
