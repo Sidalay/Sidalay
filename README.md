@@ -42,8 +42,8 @@
   </a>
  </div>
  <p> </p>
-  <a href="https://www.github.com/sidalay/spacefighter/">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sidalay&repo=spacefighter&theme=dark&)](https://github.com/anuraghazra/github-readme-stats"/>
+  <a href="https://www.github.com/sidalay/towerclimb/">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sidalay&repo=towerclimb&theme=dark&)](https://github.com/anuraghazra/github-readme-stats"/>
   </a>
  </div>
  
