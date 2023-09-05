@@ -37,13 +37,13 @@
   </a>
  </div>
  <p> </p>
-  <a href="https://www.github.com/sidalay/spacefighter/">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sidalay&repo=spacefighter&theme=dark&)](https://github.com/anuraghazra/github-readme-stats"/>
+  <a href="https://www.github.com/sidalay/actionplatformer/">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sidalay&repo=actionplatformer&theme=dark&)](https://github.com/anuraghazra/github-readme-stats"/>
   </a>
  </div>
  <p> </p>
-  <a href="https://www.github.com/sidalay/sidlib/">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sidalay&repo=Sidlib&theme=dark&)](https://github.com/anuraghazra/github-readme-stats"/>
+  <a href="https://www.github.com/sidalay/spacefighter/">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sidalay&repo=spacefighter&theme=dark&)](https://github.com/anuraghazra/github-readme-stats"/>
   </a>
  </div>
  
